@@ -1,0 +1,25 @@
+{
+  "name": "react-suspense-lazy-loading-example",
+  "version": "1.0.0",
+  "description": "A React Suspense Lazy Loading example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "Seth Corker <seth.corker@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  },
+  "dependencies": {
+    "@reach/router": "^1.2.1",
+    "chart.js": "^2.7.3",
+    "flowpoints": "^1.0.13",
+    "moment": "^2.24.0",
+    "react": "^16.8.3",
+    "react-chartjs-2": "^2.7.4",
+    "react-dom": "^16.8.3"
+  }
+}
