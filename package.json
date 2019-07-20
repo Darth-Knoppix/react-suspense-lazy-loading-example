@@ -11,7 +11,7 @@
   "author": "Seth Corker <seth.corker@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "parcel-bundler": "^1.11.0"
+    "parcel-bundler": "^1.12.3"
   },
   "dependencies": {
     "@reach/router": "^1.2.1",
