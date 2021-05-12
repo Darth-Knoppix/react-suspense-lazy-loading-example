@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@reach/router": "^1.2.1",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "flowpoints": "^1.0.13",
     "moment": "^2.24.0",
     "react": "^16.8.3",
