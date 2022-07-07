@@ -17,7 +17,7 @@
     "@reach/router": "^1.2.1",
     "chart.js": "^2.7.3",
     "flowpoints": "^1.0.13",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^16.8.3",
     "react-chartjs-2": "^2.7.4",
     "react-dom": "^16.8.3"
